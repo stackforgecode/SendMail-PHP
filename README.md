@@ -1,7 +1,7 @@
 # Envio de Email com PHP :email:
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/stackforgecode/SendMail-PHP)](https://github.com/stackforgecode/SendMail-PHP)
-[![GitHub license](https://img.shields.io/github/license/stackforgecode/SendMail-PHP)](https://github.com/stackforgecode/SendMail-PHP/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/stackforgecode/SendMail-PHP?style=flat)](https://github.com/stackforgecode/SendMail-PHP/blob/main/LICENSE)
 
 Este projeto é um exemplo simples de como enviar e-mails utilizando PHP. Ele utiliza a biblioteca PHPMailer para realizar o envio de forma fácil e segura.
 
